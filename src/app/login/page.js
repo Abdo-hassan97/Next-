@@ -22,7 +22,7 @@ export default function Login() {
 
   return (
     <div className="container mt-4">
-      <h1>Login</h1>
+      <h1>Hello , Login</h1>
       <form onSubmit={handleLogin}>
         <div className="mb-3">
           <label className="form-label">Email</label>
